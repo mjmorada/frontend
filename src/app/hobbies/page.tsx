@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Hobbies() {
   return (
-    <PageLayout title="My Hobbies">
+    <PageLayout title="Hobbies">
       I love coding, reading tech blogs, and playing basketball in my free time.
     </PageLayout>
   );

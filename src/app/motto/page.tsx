@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Motto() {
   return (
-    <PageLayout title="My Motto">
+    <PageLayout title="Motto">
       <p>"Do it again in again until you succeed"</p>
     </PageLayout>
   );

@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function AboutPage() {
+export default function About() {
     return (
       <div className="min-h-screen flex items-center justify-center bg-white text-gray-800 p-8">
         <div className="max-w-3xl text-center">
